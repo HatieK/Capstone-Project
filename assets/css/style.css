@@ -1861,6 +1861,12 @@ a {
     background: var(--bg-white);
   }
 
+  .slick-dots li:nth-child(1) {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+  }
+
   .slick-dots li:nth-child(3) {
     right: 36%;
     top: 8%;
